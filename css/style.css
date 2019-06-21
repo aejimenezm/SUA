@@ -1,0 +1,66 @@
+@media (min-width: 800px) and (max-width: 850px) {
+  .navbar:not(.top-nav-collapse) {
+    background: #1C2331!important;
+  }
+}
+
+h1{
+  font-size: 2.2em;
+  text-align: center;
+  margin-top: -15px;
+}
+
+h2{
+  font-size: 1.5em;
+  text-align: left;
+  padding-bottom: 10px;
+}
+
+h3{
+  font-size: 1.5em;
+  text-align: center;
+}
+
+.img{
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+#main{
+  padding-top: 120px;
+}
+
+.text-muted{
+  font-size: 0.8em;
+}
+
+#checkbox-group{
+  border-radius: 15px;
+  border: 0.5px solid #c6cad1;
+  padding-top: 15px; 
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+#checkbox-renglon{
+  border-radius: 15px;
+  border: 0.5px solid #c6cad1;
+  padding-top: 15px; 
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 10px;
+}
+
+#sticky-footer{
+  margin-top: 30px;
+}
+    /*#almacen{
+      border-radius: 14px;
+      background: red;
+      margin-top: -15px;
+      padding-right: 25px;
+      }*/
+    /*.view{
+      background: url("images/fondo.jpg") no-repeat center center;
+      background-size: cover;
+      }*/

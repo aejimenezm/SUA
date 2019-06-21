@@ -9,16 +9,17 @@
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="css/bootstrap.min.css">
   <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" type="image/png" href="images/form.png" />
 </head>
 <body>
   <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark" id="navbar">
     <div class="container">
-      <img src="images/logo-mineco.png" width="90" class="img">
+      <img src="images/logo-mineco.png" width="75" class="imgs">
     </div>
   </nav>
 
   <main role="main" class="container" id="main">
-    <form class="needs-validation" novalidate action="prueba.html">
+    <form class="needs-validation" novalidate action="print_pdf.php" name="f1">
       <h1>
         Ministerio de Econom&iacute;a <br>
         Solicitud de Usuarios y Accesos

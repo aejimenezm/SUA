@@ -1,0 +1,2 @@
+Radios: Dropdown list
+Checkboxes: Lista dinámica para agregar/quitar

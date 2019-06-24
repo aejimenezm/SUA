@@ -4,6 +4,32 @@
   }
 }
 
+#req{
+  color:red;
+  margin-right: -15px;
+  font-weight: bold;
+}
+
+#req2{
+  color:red;
+  font-weight: bold;
+}
+
+.req-reg{
+  padding-left: 10px;
+  padding-right: 5px;
+}
+
+.req-date{
+  margin-top: 6px;
+  padding-left: 15px;
+  padding-right: 5px;
+}
+
+#renglon{
+  margin-right: -10px;
+}
+
 h1{
   /*font-style:italic;
   font-weight:bold;
@@ -60,9 +86,18 @@ h3{
   padding-bottom: 10px;
 }
 
+#redCheck{
+  margin-left: -3px;
+}
+
 #bttn{
   margin-bottom: 20px;
   box-shadow: 2px 2px 10px #666;
+}
+
+#bttn:hover{
+  background-color: white;
+  color: Dodgerblue;
 }
 
 #sticky-footer{
